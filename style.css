@@ -1,0 +1,13 @@
+#tarolo{
+    width: 900px;
+    height: 900px;
+    background-color: aqua;
+    margin: auto;
+}
+
+#tarolo button{
+    width: calc(100%/3);
+    height: calc(100%/3);
+    float: left;
+    font-size: 10em;
+}
